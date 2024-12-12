@@ -1,4 +1,3 @@
-
 //NAUFAL ATHALINO BAKTI
 // 102022300239
 // SI-47-09
@@ -24,3 +23,4 @@ public class App extends Application {
         launch(args);
     }
 }
+
